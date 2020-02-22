@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im306.jpg</filename>
+	<path>/home/younes/detect/data/images/train/im306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>785</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t72</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>212</ymin>
+			<xmax>731</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

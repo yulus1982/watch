@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im334.jpg</filename>
+	<path>/home/younes/detect/data/images/train/im334.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>782</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t72</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>193</ymin>
+			<xmax>753</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

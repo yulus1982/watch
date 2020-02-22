@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im158.jpg</filename>
+	<path>/home/younes/vision/train/im158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>btr80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>221</ymin>
+			<xmax>718</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im291.jpg</filename>
+	<path>/home/younes/vision/train/im291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t72</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>172</ymin>
+			<xmax>612</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

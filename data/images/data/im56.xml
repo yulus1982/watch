@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im56.jpg</filename>
+	<path>/home/younes/vision/train/im56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>525</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmp3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>187</ymin>
+			<xmax>640</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

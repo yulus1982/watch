@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im144.jpg</filename>
+	<path>/home/younes/detect/data/images/train/im144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>694</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>btr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>173</ymin>
+			<xmax>667</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
